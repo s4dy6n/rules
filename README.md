@@ -54,7 +54,7 @@ Cuprand zählt nicht als «Boden», sondern **nur der Tisch**. Auch wenn Bodenau
 
 ### Fischen
 
-Wenn ein Ball noch in einem Becher herumkreist und noch nicht das Bier berührt hat, so kann dieser ausgenommen werden, um den Treffer ungültig zu machen. Man darf dafür keine Hilfsmittel verwenden. Die meisten nehmen dafür ihre Finger oder versuchen, den Ball herauszublasen. Falls man mit seinem Versuch den Ball ins Bier gebracht hat, zählt das nicht als Friendly Fire.
+Wenn ein Ball noch in einem Becher herumkreist und noch nicht das Bier berührt hat, so kann dieser ausgenommen werden, um den Treffer ungültig zu machen. Man darf dafür keine Hilfsmittel verwenden. Die meisten nehmen dafür ihre Finger oder versuchen, den Ball herauszublasen. 
 
 ### Deadcup
 
@@ -62,7 +62,7 @@ Wenn ein Becher getroffen wurde, sollte man ihn austrinken, damit er aus dem Spi
 
 ### Friendly Fire
 
-Wenn jemand mit seinem Schuss oder unbedachtem Verhalten seinen eigenen Cup trifft, hat sein Team verloren. Wenn jemand jedoch gestört wird (z. B. wenn er geschubst wurde und dadurch den Ball in seinen Cup fallen liess), zählt dies nicht. Deadcups sind noch im Spiel — wenn diese getroffen wurden, zählt es auch als Friendly Fire.
+Wenn jemand mit seinem Schuss oder unbedachtem Verhalten seinen eigenen Cup trifft, hat sein Team verloren. Wenn jemand jedoch gestört wird (z. B. wenn er geschubst wurde und dadurch den Ball in seinen Cup fallen liess), zählt dies nicht. Deadcups sind noch im Spiel — wenn diese getroffen wurden, zählt es auch als Friendly Fire. Auch wenn der Ball von einem abprallt und trifft, zählt das als Friendly Fire.
 
 ### Trickshots
 
